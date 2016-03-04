@@ -1,2 +1,6 @@
 When i create a new empty repository a git folder is created. It tracks 0 files for a moment and has 0 commits. 
 I must add some file to track and create a commit myself as git didn`t do this for me.
+
+Working folder contains all the files, that are tracked or untracked.
+Staging area represents a set of files ( or 1 file ) that are tracked and will be added to each commit.
+Repository is the collection of commits. 
