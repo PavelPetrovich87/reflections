@@ -1,0 +1,21 @@
+1
+1.1 It helps to find differences between versions of file. It helps to make it faster.
+1.2 Easy to find mispellings, changes in big files as it shows only differences between files
+
+2
+2.1 IT helps to return to previous versions of files an return to them if something goes wrong
+2.2 It allows to write parallel versions of code and then decide what version is better
+
+3 Multi file commits
+3.1 Some VCS allow to save multiple files in one commit because is git is code-oriented and
+while you programming some of your files are interdependent. So whe you change one file, this
+change refers to another files.
+
+4 View Commits history
+4.1 I can use git log for seeing all commits and git diff to see the changes itself: 
+added and removed lines for example
+
+5 Checkout commits for restoring older versions without deleting last versions. For ex while searching bugs.
+
+6. Like i said, it`s useful for searching bugs? make alternate versions of soft without breaking old versions
+and to organise your code to write it with discipline. 
