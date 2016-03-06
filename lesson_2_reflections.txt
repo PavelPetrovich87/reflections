@@ -12,4 +12,11 @@ What are some situations when branches would be helpful in keeping your history 
 - Creating new versions of a product (languages, modes, etc).
 
 How do the diagrams help you visualize the branch structure?
-- They show me commits relationships, reacheble commits.  
+- They show me commits relationships, reacheble commits.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+- The result is their code united in one. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+- It`s boring)
+- Git doesn`t merge files if some conflict exists between the same code, you have to choose which version will be saved or what to save. So it`s pretty useful - when it adds or removes some code it does it in straightforward cases.   
